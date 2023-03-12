@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab39ff7c.css",
-    "main.js": "/static/js/main.d76fb8f7.js",
-    "static/media/OZPAmajyands_TP_V.jpg": "/static/media/OZPAmajyands_TP_V.0b9fd6d5f2875554802e.jpg",
-    "static/media/MJ863_kokushimusoutumo15130350_TP_V.jpg": "/static/media/MJ863_kokushimusoutumo15130350_TP_V.0126c487ba0679d3d279.jpg",
-    "static/media/MJ863_daisangenyakuman15131035_TP_V.jpg": "/static/media/MJ863_daisangenyakuman15131035_TP_V.69757b347ddcaff6a3c6.jpg",
-    "static/media/aigaku.jpg": "/static/media/aigaku.2c8bce4976a92c894b41.jpg",
-    "static/media/IMG_6487.jpg": "/static/media/IMG_6487.ff8da70596ac9eed00ed.jpg",
-    "static/media/cropPAK51_daisangennari.jpg": "/static/media/cropPAK51_daisangennari.cf6d90374cf0db8659c0.jpg",
-    "index.html": "/index.html",
-    "main.ab39ff7c.css.map": "/static/css/main.ab39ff7c.css.map",
-    "main.d76fb8f7.js.map": "/static/js/main.d76fb8f7.js.map"
+    "main.css": "/university-website/static/css/main.ab39ff7c.css",
+    "main.js": "/university-website/static/js/main.6c9c3463.js",
+    "static/media/OZPAmajyands_TP_V.jpg": "/university-website/static/media/OZPAmajyands_TP_V.0b9fd6d5f2875554802e.jpg",
+    "static/media/MJ863_kokushimusoutumo15130350_TP_V.jpg": "/university-website/static/media/MJ863_kokushimusoutumo15130350_TP_V.0126c487ba0679d3d279.jpg",
+    "static/media/MJ863_daisangenyakuman15131035_TP_V.jpg": "/university-website/static/media/MJ863_daisangenyakuman15131035_TP_V.69757b347ddcaff6a3c6.jpg",
+    "static/media/aigaku.jpg": "/university-website/static/media/aigaku.2c8bce4976a92c894b41.jpg",
+    "static/media/IMG_6487.jpg": "/university-website/static/media/IMG_6487.ff8da70596ac9eed00ed.jpg",
+    "static/media/cropPAK51_daisangennari.jpg": "/university-website/static/media/cropPAK51_daisangennari.cf6d90374cf0db8659c0.jpg",
+    "index.html": "/university-website/index.html",
+    "main.ab39ff7c.css.map": "/university-website/static/css/main.ab39ff7c.css.map",
+    "main.6c9c3463.js.map": "/university-website/static/js/main.6c9c3463.js.map"
   },
   "entrypoints": [
     "static/css/main.ab39ff7c.css",
-    "static/js/main.d76fb8f7.js"
+    "static/js/main.6c9c3463.js"
   ]
 }
