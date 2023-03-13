@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/university-website/static/css/main.ab39ff7c.css",
-    "main.js": "/university-website/static/js/main.6c9c3463.js",
+    "main.js": "/university-website/static/js/main.7a00886d.js",
     "static/media/OZPAmajyands_TP_V.jpg": "/university-website/static/media/OZPAmajyands_TP_V.0b9fd6d5f2875554802e.jpg",
     "static/media/MJ863_kokushimusoutumo15130350_TP_V.jpg": "/university-website/static/media/MJ863_kokushimusoutumo15130350_TP_V.0126c487ba0679d3d279.jpg",
     "static/media/MJ863_daisangenyakuman15131035_TP_V.jpg": "/university-website/static/media/MJ863_daisangenyakuman15131035_TP_V.69757b347ddcaff6a3c6.jpg",
@@ -10,10 +10,10 @@
     "static/media/cropPAK51_daisangennari.jpg": "/university-website/static/media/cropPAK51_daisangennari.cf6d90374cf0db8659c0.jpg",
     "index.html": "/university-website/index.html",
     "main.ab39ff7c.css.map": "/university-website/static/css/main.ab39ff7c.css.map",
-    "main.6c9c3463.js.map": "/university-website/static/js/main.6c9c3463.js.map"
+    "main.7a00886d.js.map": "/university-website/static/js/main.7a00886d.js.map"
   },
   "entrypoints": [
     "static/css/main.ab39ff7c.css",
-    "static/js/main.6c9c3463.js"
+    "static/js/main.7a00886d.js"
   ]
 }
